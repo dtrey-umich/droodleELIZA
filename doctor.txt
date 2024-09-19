@@ -104,25 +104,6 @@ key: name 15
   decomp: *
     reasmb: I am not interested in names.
     reasmb: I've told you before, I don't care about names -- please continue.
-key: deutsch
-  decomp: *
-    reasmb: goto xforeign
-    reasmb: I told you before, I don't understand German.
-key: francais
-  decomp: *
-    reasmb: goto xforeign
-    reasmb: I told you before, I don't understand French.
-key: italiano
-  decomp: *
-    reasmb: goto xforeign
-    reasmb: I told you before, I don't understand Italian.
-key: espanol
-  decomp: *
-    reasmb: goto xforeign
-    reasmb: I told you before, I don't understand Spanish.
-key: xforeign
-  decomp: *
-    reasmb: I speak only English.
 key: hello
   decomp: *
     reasmb: How do you do.  Please state your problem.
@@ -182,6 +163,11 @@ key: was 2
     reasmb: Perhaps I was (2) .
     reasmb: What if I had been (2) ?
 key: i
+  decomp: * i see *
+    reasmb: What makes yout think it's (2) ?
+    reasmb: That's interesting! what elese could it be other than (2) ?
+    reasmb: Why would that be the case ?
+    reasmb: What story could we make around (2) ?
   decomp: * i @desire *
     reasmb: What would it mean to you if you got (3) ?
     reasmb: Why do you want (3) ?
