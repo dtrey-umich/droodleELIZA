@@ -19,6 +19,9 @@ pre: were was
 pre: you're you are
 pre: i'm i am
 pre: same alike
+pre: pic picture
+pre: observe see
+pre: shapes forms
 post: am are
 post: your my
 post: me you
@@ -36,6 +39,9 @@ synon: happy elated glad better
 synon: cannot can't
 synon: everyone everybody nobody noone
 synon: be am is are was
+synon: interpretation meaning guess
+synon: abstract vague unclear symbolic
+synon: think consider believe imagine
 key: xnone
   decomp: *
     reasmb: I'm not sure I fully understand. Can you tell me more about what you see?
