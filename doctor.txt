@@ -1,5 +1,5 @@
-initial: How do you do.  Please tell me your problem.
-final: Goodbye.  Thank you for talking to me.
+initial: Hello! What do you see in this Droodle?
+final: It was great discussing Droodles with you. Goodbye!
 quit: bye
 quit: goodbye
 quit: quit
