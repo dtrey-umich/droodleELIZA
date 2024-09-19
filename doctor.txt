@@ -52,7 +52,7 @@ key: xnone
     reasmb: Please go on.
 key: sorry
   decomp: *
-    reasmb: Please don't apologise.
+    reasmb: No need for apologies—let’s focus on what the Droodle might represent!
     reasmb: Apologies are not necessary.
     reasmb: I've told you that apologies are not required.
 key: apologise
@@ -86,8 +86,11 @@ key: dreamed 4
     reasmb: goto dream
 key: dream 3
   decomp: *
+    reasmb: Could your dream inspire a new interpretation of the Droodle?
     reasmb: What does that dream suggest to you ?
+    reasmb: Does this Droodle remind you of anything you’ve dreamed about?
     reasmb: Do you dream often ?
+    reasmb: What if we think of this Droodle like a dream—what comes to mind?
     reasmb: What persons appear in your dreams ?
     reasmb: Do you believe that dreams have something to do with your problems ?
 key: perhaps
@@ -274,6 +277,8 @@ key: my 2
     reasmb: But your (2) .
     reasmb: Does that have anything to do with the fact that your (2) ?
   decomp: * my * @family *
+    reasmb: Could this Droodle represent something related to family or connections?
+    reasmb: How might this image symbolize relationships or bonds?
     reasmb: Tell me more about your family.
     reasmb: Who else in your family (4) ?
     reasmb: Your (3) ?
